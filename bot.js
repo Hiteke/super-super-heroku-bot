@@ -11,5 +11,5 @@ client.on('message', message => {
   	}
 });
 
-// THIS  MUST  BE  THIS  WAY
+// THIS  MUST  BE  THIS  WAY HITEKE
 client.login(process.env.BOT_TOKEN);
